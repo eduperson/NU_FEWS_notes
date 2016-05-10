@@ -1,0 +1,66 @@
+------------------------------------------------------------------------------
+
+Group 1: Remote sensing
+      - 
+
+Group 2: Complex FEWS systems modeling
+      - Address complexity
+      - Develop tool to look at answers for different applications
+      - Interaction between FEWS models
+      - Combination of Economic and behavioral models applied to FEWS systems
+
+Group 3: Harvest waste biomass
+      - Small modular aerobic digestion
+
+Group 4: Farmers sharing data 
+      (1) data collection (2) data contectualization or archiving
+      (3) data dissemination
+
+Group 5: Data-driven approach for a sustainable FEWS system
+      More efficient operation: optimization
+      	   Field sensor (solar energy)
+	   Plant growth
+	   Food waste
+      Corn as a System
+      	   1. Does a model exist? 
+
+------------------------------------------------------------------------------
+   	
+ 
+
+
+
+------------------------------------------------------------------------------
+Source: http://www.nsf.gov/pubs/2016/nsf16549/nsf16549.htm
+
+CPS technology challenges that are directly relevant to NIFA goals for S&CC include:
+
+    Robust and intelligent control systems and sensors to help monitor, optimize, and manage an entire controlled-environment urban agriculture facility including physical environment (lighting, temperature, water, and fertilizers);
+    Model-based development and control integrating horticultural knowledge of pests, cultivars tailored to controlled environments, and companion production;
+    Integration of renewable energy sources such as solar technology and improved high-efficiency lighting based upon physics and photonics advances; and
+    New connectivity paradigms and applications for integrated devices, communications, control systems, and databases in dispersed rural settings that enable overlain software to bring quality-of-life improvements to citizens for benefits such as education, health, economic development, mobility, or environmental quality.
+
+Real-Time Agricultural Data Analytics and Control:
+
+Addressing many of the agricultural grand challenges demands new advances in the integration of cyber-physical systems (including sensors, communication systems, and control systems) with real-time information and analytic engines tightly coupled with agriculture and food systems. This integration forms a large-scale cyber-physical system that enables data collected throughout the supply chain to be analyzed and used for control and decision-making in other stages of production, processing, distribution, storage, and consumption. Much agricultural data is currently single-use and static. For example, current technology allows for the collection and use of many different types of agricultural data, from soil moisture and chemistry, meteorology and climate, crop and market conditions, and consumer nutrition and preference, to gene sequences and ecological variables. However, these data are often used only at the time and place of collection, and necessarily require a human in the loop. Datasets in many of these fields need to become dynamic (regularly updated, or real-time in some cases) and actively engage in control operations and decision-making in other segments of the supply chain. These datasets are massive and vary in scale and precision, which presents challenges for accessibility, analytics, interoperability, and persistence. Nonetheless, they have potential to significantly impact environmental quality, product traceability, agricultural input use, regional pest management, and system-wide sustainability.
+
+NIFA is interested in new approaches for analytics that can extract actionable information from these datasets and provide real-time control of agricultural CPS. While application of these massive datasets and real-time analytics in controlling CPS may be difficult in many domains, the multiple time scales of agriculture offer an opportunity to reorient our thinking of real-time, and may be highly compatible with the processing and data delivery timelines for these massive datasets. Proposals should briefly present metrics and methodology for evaluating the metrics to show the impact of the research.
+
+Given the integrative and multi- or trans-disciplinary nature of agricultural sciences, NIFA expects to fund primarily Synergy projects. However, where fundamental CPS advances have a clear benefit to agriculture, Breakthrough projects would be considered for NIFA funding. In addition, Frontier projects that demonstrate an agriculture-related critical challenge would also be considered by NIFA, but funding will be limited to the lower end of the Frontier range.
+
+------------------------------------------------------------------------------
+
+http://tpapanicolaou.engr.utk.edu/coupled-natural-human-systems/
+
+http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1419&context=leopold_grantreports
+
+http://www.intechopen.com/books/sustainable-development-authoritative-and-leading-edge-content-for-environmental-management/social-ecological-resilience-and-maize-farming-in-chiapas-mexico
+
+http://www.bioone.org/doi/abs/10.1579/0044-7447-31.2.132
+
+http://lter.kbs.msu.edu/docs/robertson/Stuart_et_al._2015_BioScience.pdf
+
+http://www.nsf.gov/pubs/2014/nsf14601/nsf14601.htm
+
+==============================================================================
+
